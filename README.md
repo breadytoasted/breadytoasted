@@ -11,7 +11,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table>
 
 **<div align="center">im sort of working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**  
   
