@@ -13,16 +13,13 @@
 
 <table><tr><td valign="top" width="50%">
 
-
-
-### some info idk  
-- **im sort of working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)**  
+**<div align="center">im sort of working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**  
   
 
-- **i dont know shit about code**  
+**<div align="center">i dont know shit about code</div>**  
   
 
-- **yeah**  
+**<div align="center">yeah</div>**  
 
 
 </td><td valign="top" width="50%">
