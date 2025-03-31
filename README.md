@@ -13,7 +13,7 @@
 
 <table>
 
-**<div align="center">im sort of working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**  
+**<div align="center">im fully working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**  
   
 
 **<div align="center">i dont know shit about code</div>**  
