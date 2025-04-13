@@ -13,10 +13,10 @@
 
 <table>
 
-**<div align="center">im fully working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**
+**<div align="center">im sorta working on [tinekesieders.nl](https://github.com/breadytoasted/tinekesieders.nl)</div>**
 
 
-**<div align="center">oh yeah [x3z](https://x3z.nl) exists too</div>**  
+**<div align="center">oh yeah [x3z](https://bready.lol) is a new project, new domain for alot of bullshit!</div>**  
   
 
 **<div align="center">i dont know shit about code</div>**  
