@@ -19,6 +19,9 @@
 **<div align="center">oh yeah [bready.lol](https://bready.lol) is a new project, new domain for alot of bullshit!</div>**  
   
 
+**<div align="center">[gothbitch.es](https://gothbitch.es) is a domain i bought for shits and giggles</div>**  
+
+
 **<div align="center">i dont know shit about code</div>**  
   
 
