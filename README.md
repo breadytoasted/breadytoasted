@@ -22,7 +22,7 @@
 **<div align="center">[gothbitch.es](https://gothbitch.es) is a domain i bought for shits and giggles</div>**  
 
 
-**<div align="center">i dont know shit about code</div>**  
+**<div align="center">more repositories on [breadyTM](https://github.com/breadyTM)</div>**  
   
 
 **<div align="center">meow</div>**  
